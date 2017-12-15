@@ -73,6 +73,27 @@ ga('send', 'pageview');
 </script>
 ```
 
+## Performance.marks to fun with in FF&Chrome
+```
+  <body>
+    <script> requestAnimationFrame(function(){ performance.mark('raf:body'); }); </script>
+  
+    <script>performance.mark('resources:jquery:before');</script>
+    <script defer src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            onload="performance.mark('resources:jquery:load')"></script>
+    <script>performance.mark('resources:jquery:after');</script>
+    <script> requestAnimationFrame(function(){ performance.mark('raf:after-jquery'); }); </script>
+  
+    <script>performance.mark('resources:main.css:before');</script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+          onload="performance.mark('resources:main.css:load')">
+    <script>performance.mark('resources:main.css:after');</script>
+  
+    <script> requestAnimationFrame(function(){ performance.mark('raf:after-css'); }); </script>
+  
+  </body>
+```
+
 # Reach out
 - [Twitter](https://twitter.com/fast_wordpress)
 - [Email](mailto:hom3chuk+perf@gmail.com)
