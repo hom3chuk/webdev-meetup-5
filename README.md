@@ -4,7 +4,7 @@ Nsk Google Developer Group webperf tools talk links, snippets and stuff
 TBD
 
 # Slides
-TBD
+[See slides folder](https://github.com/hom3chuk/webdev-meetup-5/tree/master/slides)
 
 # Links
 ## Why?
