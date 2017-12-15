@@ -29,6 +29,7 @@ TBD
 ## Other links
 [User timing API](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)
 [Layout/Paint profiling](https://developers.google.com/web/fundamentals/performance/rendering/simplify-paint-complexity-and-reduce-paint-areas?hl=en)
+[The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
 
 # Snippets
 ## Enable 100% sampling for RUM in GA
