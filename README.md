@@ -8,9 +8,9 @@ TBD
 
 # Links
 ## Why?
-[Google article with some links to research](https://www.thinkwithgoogle.com/marketing-resources/experience-design/mobile-page-speed-load-time/)
-[This is Success: Why 1000/100/6/50ms?](https://docs.google.com/document/d/1bYMyE6NdiAupuwl7pWQfB-vOZBPSsXCv57hljLDMV8E/edit)
-[2018: 120fps and no jank](https://dassur.ma/things/120fps/)
+- [Google article with some links to research](https://www.thinkwithgoogle.com/marketing-resources/experience-design/mobile-page-speed-load-time/)
+- [This is Success: Why 1000/100/6/50ms?](https://docs.google.com/document/d/1bYMyE6NdiAupuwl7pWQfB-vOZBPSsXCv57hljLDMV8E/edit)
+- [2018: 120fps and no jank](https://dassur.ma/things/120fps/)
 
 ## Tools
 ### Synthetic
