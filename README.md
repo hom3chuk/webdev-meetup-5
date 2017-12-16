@@ -1,7 +1,7 @@
 Nsk Google Developer Group webperf tools talk links, snippets and stuff
 
 # Video
-TBD
+[Youtube](https://www.youtube.com/watch?v=eudKdRycuWk&feature=youtu.be)
 
 # Slides
 [See slides folder](https://github.com/hom3chuk/webdev-meetup-5/tree/master/slides)
@@ -10,7 +10,7 @@ TBD
 ## Why?
 - [Google article with some links to research](https://www.thinkwithgoogle.com/marketing-resources/experience-design/mobile-page-speed-load-time/)
 - [This is Success: Why 1000/100/6/50ms?](https://docs.google.com/document/d/1bYMyE6NdiAupuwl7pWQfB-vOZBPSsXCv57hljLDMV8E/edit)
-- [2018: 120fps and no jank](https://dassur.ma/things/120fps/)
+- [2018: 120fps and no jank](https://dassur.ma/things/120fps/) ([Surma's tweet on 120 fps](https://twitter.com/DasSurma/status/930862317696413697))
 
 ## Tools
 ### Synthetic
@@ -27,9 +27,10 @@ TBD
 - [Taki](https://takiapp.com/) (disc: I'm on the team 🙋🏻)
 
 ## Other links
-[User timing API](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)
-[Layout/Paint profiling](https://developers.google.com/web/fundamentals/performance/rendering/simplify-paint-complexity-and-reduce-paint-areas?hl=en)
-[The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
+- [User timing API](https://developer.mozilla.org/en-US/docs/Web/API/User_Timing_API)
+- [Layout/Paint profiling](https://developers.google.com/web/fundamentals/performance/rendering/simplify-paint-complexity-and-reduce-paint-areas?hl=en)
+- [The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
+- [Critical rendering path Udacity course by Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) ([GitHub](https://github.com/igrigorik))
 
 # Snippets
 ## Enable 100% sampling for RUM in GA
