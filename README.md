@@ -11,6 +11,7 @@ Nsk Google Developer Group webperf tools talk links, snippets and stuff
 - [Google article with some links to research](https://www.thinkwithgoogle.com/marketing-resources/experience-design/mobile-page-speed-load-time/)
 - [This is Success: Why 1000/100/6/50ms?](https://docs.google.com/document/d/1bYMyE6NdiAupuwl7pWQfB-vOZBPSsXCv57hljLDMV8E/edit)
 - [2018: 120fps and no jank](https://dassur.ma/things/120fps/) ([Surma's tweet on 120 fps](https://twitter.com/DasSurma/status/930862317696413697))
+- [Perf Audits for Blink & DevTools, CNet, Wikipedia, Time](https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/edit)
 
 ## Tools
 ### Synthetic
